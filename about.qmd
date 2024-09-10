@@ -1,0 +1,13 @@
+---
+title: "About"
+---
+
+This site is the home of the Hudson Carbon lab manual and collaboration field guide. We use this (living, editable, evolving) document to keep track of our lab's code of conduct; list of important resources; expectations; and tips and tricks for successful collaboration (an under-appreciated and surprisingly difficult skill).
+
+The document is collaborative and mainly edited by HC research director Elizabeth Forbes. Her contact information is:
+
+eforbes\@hudsoncarbon.com
+
+```{r}
+1 + 1
+```

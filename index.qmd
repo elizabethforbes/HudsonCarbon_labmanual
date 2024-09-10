@@ -1,0 +1,7 @@
+---
+title: "Hudson Carbon Lab Manual and Collaboration Field Guide"
+---
+
+```{r}
+1 + 1
+```
