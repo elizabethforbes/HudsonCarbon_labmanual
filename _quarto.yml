@@ -6,15 +6,32 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-      - quicklinks.qmd
-
+        text: "Home"
+      - href: quicklinks.qmd
+        text: "Quick Links"
+      - href: about.qmd
+        text: "About"
+  sidebar: 
+    style: "docked"
+    search: true
+    contents:
+      - href: "introduction.qmd"
+        text: "Introduction"
+      - href: "codeofconduct.qmd"
+        text: "Code of Conduct"
+      - href: "expectations.qmd"
+        text: "Expectations"
+      - href: "policiesresources.qmd"
+        text: "Policies and Resources"
 format:
   html:
     theme: minty
     css: styles.css
     toc: true
+    embed-resources: true
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
 
 editor: visual
 
